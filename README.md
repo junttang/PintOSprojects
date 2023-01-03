@@ -10,4 +10,4 @@ If you, the reader is a student who takes the same course and have to do the sam
 
 But you know, DO NOT JUST COPY these codes. You can refer to the code to help yourself do the homework efficiently, but do not just copying at all. It must be detected via copy detector.
 
-(서강 학우 여러분, 핀토스 프로젝트를 수행하다 어려운 점을 맞이할때마다 제 코드를 참조하세요! 그 방식이 가장 효율적이고 효과적인 학습 방식일 겁니다. 최대한 스스로 하세요. 충분한 노력을 했는대도 안될때, 그때 제 보고서를 읽으면서 흐름을 이해하고, 코드를 간단히 참조하여 문제를 해결하시길 바랍니다! 다만 참조는 하되, 단순 카피는 하지 마세요! 실제로 본 2022년도 OS 수업에서도 많은 학우들이 인터넷 코드를 단순히 카피했다가 걸린 사례들이 있었습니다.)
+(서강 학우 여러분, 핀토스 프로젝트를 수행하다 어려운 점을 맞이할때마다 제 코드를 참조하세요! 그 방식이 가장 효율적이고 효과적인 학습 방식일 겁니다. 최대한 스스로 하세요. 충분한 노력을 했는대도 안될때, 그때 제 보고서를 읽으면서 흐름을 이해하고, 코드를 간단히 참조하여 문제를 해결하시길 바랍니다! 다만 참조는 하되, 단순 카피는 하지 마세요! 실제로 본 2022년도 OS 수업에서도 많은 학우들이 인터넷 코드를 단순히 카피했다가 걸린 사례들이 있었습니다. 아무쪼록, 이 글을 읽으시는 모든 학우분들 화이팅 하셔서 모두 만점 받으시길 바랍니다.)
