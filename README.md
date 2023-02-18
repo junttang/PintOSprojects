@@ -8,4 +8,4 @@ Even though I gave so much effort to do and perfect these projects, there can be
 
 *If you, the reader is a student who takes the same course and have to do the same pintOS assignments, do the projects only with your own programming skills as much as possible. But even though you do the best, there may(must) be some hard troubles, and at that time you encounter those troubles, then reference these codes actively!*
 
-But you know, **DO NOT JUST COPY these codes. You can refer to the code to help yourself do the homework efficiently, but do not just copying at all. It must be detected via copy detector**.
+But you know, **DO NOT JUST COPY these codes. You can refer to the code to help yourself do the homework efficiently, but do not just copying at all. It must be detected via copy detector**. (it really happened before!!)
